@@ -1,6 +1,7 @@
 import java.util.*;
 public class FunctionFactorial {
   
+  /* 
   public static void factorial(int a){
     
     if(a>0){
@@ -15,6 +16,23 @@ public class FunctionFactorial {
       System.out.println("the factorial is : " + 1);
     }
     else if(a<0){
+      System.out.println("factorial cant be found for this number ");
+    }
+    
+  } 
+  */
+
+  public static void factorial(int a){
+    
+    if(a>=0){
+      int result =1;
+     for(int i = a ; i>= 1 ; i--){
+      result = result*i;
+      }
+      System.out.println("The factorial is : " + result);
+    }
+    
+    else {
       System.out.println("factorial cant be found for this number ");
     }
     

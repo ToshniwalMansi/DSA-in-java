@@ -16,5 +16,10 @@ public class FunctionsAdd {
 
      sum(a,b);   //This is not printed 
       System.err.println("The sum of two numbers is : " + sum(a,b));
+
+      //Another way
+
+      int result = sum(a,b);
+      System.out.println("The sum of both numbers are : " + result);
   }
 }

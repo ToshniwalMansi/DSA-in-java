@@ -1,3 +1,6 @@
+//Write a function to check if a number is even or not 
+
+
 import java.util.*;
 public class EvenOrNotFunctions {
   public static void evenOrOdd(int a){

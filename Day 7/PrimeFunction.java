@@ -1,3 +1,6 @@
+//Make a function to check if a given number is prime or not 
+
+
 import java.util.*;
 public class PrimeFunction {
   

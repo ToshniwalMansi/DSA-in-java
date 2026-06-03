@@ -1,3 +1,6 @@
+//Write a function to print the table of a given number n 
+
+
 import java.util.* ;
 public class TableFunction {
   

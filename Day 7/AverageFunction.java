@@ -1,3 +1,5 @@
+//Enter 3 numbers from the user and make a function to print their average 
+
 import java.util.*;
 public class AverageFunction {
   

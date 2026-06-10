@@ -17,4 +17,5 @@ public class TimeThree {
 
 // outer loop runs n time 
 // inner loop is m time 
-// time compexity is m+n
+// time compexity is m*n
+// it will be multiplied because it is nested loop

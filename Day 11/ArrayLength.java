@@ -17,3 +17,5 @@ public class ArrayLength {
       System.out.println("The size of the array is : " + numbers.length);
   }
 }
+
+//Arrayname.length gives you size of array

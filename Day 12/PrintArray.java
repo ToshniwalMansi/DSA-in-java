@@ -23,3 +23,7 @@ public class PrintArray{
 
   }
 }
+
+
+
+// This is a code that takes array as inout and print it

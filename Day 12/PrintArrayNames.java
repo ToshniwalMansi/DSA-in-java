@@ -23,3 +23,6 @@ public class PrintArrayNames {
 
   }
 }
+
+
+// this code takes names as inout in array and prints them

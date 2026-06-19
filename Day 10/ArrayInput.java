@@ -20,3 +20,4 @@ public class ArrayInput {
 
 
 // here you can give inout to the arrays as well
+//here in this code we take array as input 

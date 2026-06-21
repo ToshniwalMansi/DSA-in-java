@@ -5,8 +5,9 @@ public class TwoDArray {
     Scanner sc = new Scanner(System.in);
 
     int numbers[][] = new int[3][5];
-
+    //rows
     for(int i=0 ; i<3 ; i++){
+      //columns
       for(int j=0 ; j<5 ; j++){
         numbers[i][j] = sc.nextInt();
       }

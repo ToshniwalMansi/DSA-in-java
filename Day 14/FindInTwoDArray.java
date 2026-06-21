@@ -1,5 +1,5 @@
 import java.util.*;
-public class FineInTwoDArray {
+public class FindInTwoDArray {
   
   public static void main(String[] args) {
       

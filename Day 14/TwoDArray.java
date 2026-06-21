@@ -21,3 +21,6 @@ public class TwoDArray {
     }
   }
 }
+
+
+// here the number of rows and columns are pre defined and only take input of array and prints them

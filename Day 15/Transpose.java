@@ -38,3 +38,4 @@ public class Transpose {
 
 
 //This code makes the transpose of the array input by the user and prints the transpose without making a new array 
+//Both methods are solved by myself without using ai or seeing solutions

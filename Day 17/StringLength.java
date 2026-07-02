@@ -16,5 +16,10 @@ public class StringLength {
     System.out.println("Your full name is : " + fullName);
 
     System.out.println("Length of your name is : " + fullName.length());
+
+    for(int i=0 ; i<fullName.length() ; i++){
+      System.out.println(fullName.charAt(i));
+    }
+    //here the letter is given as an output for the number of index
   }
 }

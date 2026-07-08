@@ -5,7 +5,7 @@ public class FactorialRecursion {
   public static void printFactorial(int n , int factorial){
 
     if(n == 0){
-      System.out.println("the factorial of is : " + factorial);
+      System.out.println("the factorial is : " + factorial);
       return;
     }
     factorial *= n;

@@ -1,3 +1,8 @@
+/* Tower of Hanoi
+1. Only one disk can be transferred in 1 step
+2. Smaller disk are always kept on top of larger one*/
+
+
 public class TowerOfHanoi {
   
   public static void towerOfHanoi(int n , String src , String helper , String dest){

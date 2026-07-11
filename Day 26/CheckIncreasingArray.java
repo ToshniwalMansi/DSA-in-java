@@ -1,4 +1,4 @@
-// Check iif an array is sorted (Strictly increasing)
+// Check iif an array is sorted 
 
 public class CheckIncreasingArray {
   static int answer = 1;
